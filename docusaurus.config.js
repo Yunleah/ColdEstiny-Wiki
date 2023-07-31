@@ -70,7 +70,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: '开始',
+            label: '文档',
           },
           // 搜索框
           {
