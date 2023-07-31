@@ -6,20 +6,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Wiki-Template',
-  tagline: 'Docusaurus 插件文档模板',
+  title: 'ColdEstiny-Wiki',
+  tagline: 'Bukkit Death Engine',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://neige7.github.io',
+  url: 'https://Yunleah.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Wiki-Template/',
+  baseUrl: '/ColdEstiny-Wiki/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'neige7', // Usually your GitHub org/user name.
-  projectName: 'Wiki-Template', // Usually your repo name.
+  organizationName: 'Yunleah', // Usually your GitHub org/user name.
+  projectName: 'ColdEstiny-Wiki', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -43,7 +43,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl:
-            'https://github.com/Neige7/Wiki-Template/blob/main'
+            'https://github.com/Yunleah/ColdEstiny-Wiki/blob/main'
         },
         blog: false,
         theme: {
@@ -78,7 +78,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/Neige7/Wiki-Template',
+            href: 'https://github.com/Yunleah/ColdEstiny-Wiki',
             label: 'GitHub',
             position: 'right',
           },
@@ -106,7 +106,7 @@ const config = {
             items: [
               {
                 label: 'QQ群',
-                href: 'https://jq.qq.com/?_wv=1027&k=QKurhX6E',
+                href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=b-ZG0iHBj89oFDxkuVQjnt0DMT_2khDW&authKey=QT1u%2BKUvkwqJTtjiYhAn3%2F3e0uoxyiS9UeYVUyVTrHg5yc1gXtyKcblIgmyZ0huA&noverify=0&group_code=514899184',
               },
             ],
           },
@@ -115,13 +115,13 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/Neige7/Wiki-Template',
+                href: 'https://github.com/Yunleah/ColdEstiny',
               },
             ],
           },
         ],
         // 底部版权信息
-        copyright: `Copyright © ${new Date().getFullYear()} Neige, All Rights Reserved.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Yunleah, All Rights Reserved.`,
       },
       // 深浅主题
       prism: {
