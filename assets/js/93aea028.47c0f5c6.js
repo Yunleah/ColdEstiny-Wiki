@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoldestiny_wiki=self.webpackChunkcoldestiny_wiki||[]).push([[33],{5745:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

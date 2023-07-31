@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoldestiny_wiki=self.webpackChunkcoldestiny_wiki||[]).push([[642],{2776:s=>{s.exports=JSON.parse('{"name":"@easyops-cn/docusaurus-search-local","id":"default"}')}}]);

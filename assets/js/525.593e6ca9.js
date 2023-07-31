@@ -1,0 +1,1 @@
+(self.webpackChunkcoldestiny_wiki=self.webpackChunkcoldestiny_wiki||[]).push([[525],{5525:()=>{}}]);
