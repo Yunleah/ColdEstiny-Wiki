@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ColdEstiny-Wiki',
-  tagline: 'Bukkit Death Engine',
+  tagline: '灵活强大的死亡惩罚解决方案',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -59,7 +59,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Wiki-Template',
+        title: 'ColdEstiny-Wiki',
         logo: {
           alt: 'Logo',
           src: 'img/logo.svg',

@@ -1,3 +1,3 @@
-# Docusaurus 插件文档模板
+# ColdEstiny Wiki
 
-[点击查看](https://neige7.github.io/Wiki-Template/)
+[点击查看](https://Yunleah.github.io/ColdEstiny-Wiki/)
