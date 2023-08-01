@@ -3,15 +3,14 @@ sidebar_position: 1
 ---
 # 关于
 
-{% hint style="success" %} 芸之插件QQ群：514899184
 
-本WIKI页内容排版借鉴于 Invero👍Wiki | A哥 YYDS🎉 {% endhint %}
+> 芸之插件QQ群：514899184 | 即刻加入纵享丝滑
 
-{% hint style="danger" %} ColdEstiny完全免费
-
+:::danger
+ColdEstiny完全免费 
 请不要使用由第三方分发的插件本体
-
-这可能会让你变得不幸 🙅‍ {% endhint %}
+这可能会让你变得不幸 🙅‍
+:::
 
 
 ***
